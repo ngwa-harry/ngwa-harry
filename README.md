@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngwa-harry
 - 👀 I’m interested in software development, AI and technology as a whole
-- 🌱 I’m currently learning Django and music(Piano)
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Business Administration
 - 📫 How to reach me ...
 
